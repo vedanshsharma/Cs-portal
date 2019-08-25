@@ -92,3 +92,24 @@ body {
   #frm{
     margin: 10px 500px;
   }
+
+  /* cyber-security */
+  .cyberSecurityBody {
+    font-family: "Times New Roman", Times, serif;
+   background-image: url("https://www.rtds.com/wp-content/uploads/2018/01/secure_data_edited_c.jpg");
+    background-size: cover;
+    opacity:1;
+   
+ }
+ .main{
+   text-decoration: underline;
+   text-decoration-style: solid;
+   
+ } table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+  }
+  th, td {
+	padding: 5px;
+	text-align: left;
+  }
